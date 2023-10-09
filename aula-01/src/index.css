@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+input{
+    padding: 20px;
+    margin: 2px;
+    outline: none;
+    height: 20px;
+    width: 300px;
+}
+button{
+  
+    outline: none;
+}
+a:link{
+    text-decoration: none;
+    list-style: none;
+}
